@@ -1,0 +1,36 @@
+.post{
+    display: flex;
+    width: 500px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0,0.2);
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+
+.img-thumb img{
+    margin-top: 45px;
+    margin-left: 10px;
+    border-radius: 5px;
+}
+
+.content{
+    margin-left: 10px;
+}
+
+.title{
+    color:blue ;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.desc{
+    font-size: 15px;
+}
+
+
+.form-add{
+    width: 500px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0,0.2);
+    margin-left: 30px;
+    margin-bottom: 20px;
+}

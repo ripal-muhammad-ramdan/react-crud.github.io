@@ -1,0 +1,84 @@
+.header{
+    width: 300px;
+    background-color: lime;
+    margin-left: 10px;
+}
+
+.header p {
+    margin-top: 5px;
+    font-family: cursive;
+    font-weight: bold;
+    color: white;
+    margin-left: 10px;
+    float: left;
+}
+
+.troley img{
+    width: 30px;
+    margin-top: 2px;
+    margin-left: 130px;
+    cursor: pointer;
+}
+
+.count{
+    background: royalblue;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    color: white;
+    position: absolute;
+    margin-left: 250px;
+    margin-top: -20px;
+    font-size: 9px;
+}
+
+.count span {
+    margin-left: 5px;
+}
+
+.card{
+    width: 250px;
+    height: 250px;
+    margin-left: 40px;
+    margin-top: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0,0.2);
+}
+
+.img-thumb-prod{
+    margin-left: 30px;
+    padding-top: 20px;
+    
+}
+
+.prod-tittle{
+    margin-top: -5px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.prod-price{
+    margin-top: -15px;
+    margin-left: 30px;
+    font-weight: bold;
+}
+
+.counter{
+    margin-left: 35px;
+}
+
+.minus{
+    border: none;
+    background: royalblue;
+    border-radius: 5px;
+}
+
+input[type=text]{
+    border: none;
+    text-align: center;
+}
+
+.plus{
+    border: none;
+    background: royalblue;
+    border-radius: 5px;
+}
